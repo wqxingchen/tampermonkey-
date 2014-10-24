@@ -9,7 +9,7 @@
 
 function insertButton()
 {
-    var lstHiddenUser = ['地罗天征','beluoe'];
+    var lstHiddenUser = ['地罗天征','断铜','星迷七号2','beluoe','wcsxgty'];
     var lstDiv = $(".l_post.l_post_bright");
     lstDiv.each(function(){
         var sUserInfo = $(this).attr("data-field");
